@@ -2,4 +2,4 @@
 1
 2
 3
-p sreweight Reweights survey variables using external totals Use sreweight With STATA 19
+p ssm Endogenous switch and sample selection count, binary, and ordinal response regression Use ssm With STATA 19
