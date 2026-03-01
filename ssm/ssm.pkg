@@ -1,4 +1,15 @@
-D 'sreweight': Reweights survey variables using external totals Use sreweight With STATA 19
+D 'ssm': Endogenous switch and sample selection count, binary, and ordinal response regression Use ssm With STATA 19
 D
-F sreweight.ado
-F sreweight.sthlp
+F eq_g.hlp
+F gllam_ll.ado
+F gllamm.ado
+F gllamm.hlp
+F gllapred.ado
+F gllapred.hlp
+F gllarob.ado
+F gllas_yu.ado
+F gllasim.ado
+F gllasim.hlp
+F remcor.ado
+F ssm.ado
+F ssm.hlp
